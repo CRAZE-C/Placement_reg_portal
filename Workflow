@@ -1,0 +1,18 @@
+Workflow Overview
+
+1. For Students:
+   - Registration/Login: Students create an account or log in to the website.
+   - Explore Job Listings: They browse through job postings using search and filter options.
+   - Apply for Jobs: Students select a job and apply, attaching relevant documents like resumes and cover letters.
+   - Track Application Status: They monitor the progress of their applications (e.g., pending, shortlisted, rejected).
+   - Check Eligibility: The website checks academic records to ensure they meet the job criteria.
+   - Re-Application: If a student wants to re-apply, the system enforces any rules (e.g., waiting period) before allowing it.
+
+2. For Faculty/Admin:
+   - Login to Admin Panel: Faculty or administrators access the website’s backend.
+   - Post Job Opportunities: They create and manage job postings, providing details like job descriptions, requirements, and deadlines.
+   - Review Applications: Faculty/admins review student applications, shortlist candidates, or reject applications.
+   - Manage Academic Records: They can access student academic records to verify eligibility and generate reports.
+   - Enforce Re-Application Rules: Admins set and enforce rules for job re-applications to ensure fairness.
+
+This streamlined process ensures that both students and faculty/admins can efficiently manage job postings, applications, and academic records while maintaining transparency and fairness in the application process.
